@@ -1,0 +1,106 @@
+[
+    {
+        "category": "actions",
+        "audio": [
+            "climb.mp3",
+            "dive.mp3",
+            "drive.mp3",
+            "fly.mp3",
+            "jump.mp3",
+            "ride.mp3",
+            "run.mp3",
+            "walk.mp3"
+        ]
+    },
+    {
+        "category": "animals1",
+        "audio": [
+            "cat.mp3",
+            "elephant.mp3",
+            "fish.mp3",
+            "monkey.mp3",
+            "pig.mp3",
+            "shark.mp3",
+            "sheep.mp3",
+            "squirrel.mp3"
+        ]
+    },
+    {
+        "category": "animals2",
+        "audio": [
+            "bee.mp3",
+            "dog.mp3",
+            "frog.mp3",
+            "giraffe.mp3",
+            "horse.mp3",
+            "lion.mp3",
+            "panda.mp3",
+            "rabbit.mp3"
+        ]
+    },
+    {
+        "category": "emotions",
+        "audio": [
+            "angry.mp3",
+            "brave.mp3",
+            "confused.mp3",
+            "crying.mp3",
+            "happy.mp3",
+            "sad.mp3",
+            "sick.mp3",
+            "surprised.mp3"
+        ]
+    },
+    {
+        "category": "family",
+        "audio": [
+            "brother.mp3",
+            "family.mp3",
+            "father.mp3",
+            "friend.mp3",
+            "grandma.mp3",
+            "grandpa.mp3",
+            "mother.mp3",
+            "sister.mp3"
+        ]
+    },
+    {
+        "category": "food",
+        "audio": [
+            "bread.mp3",
+            "burger.mp3",
+            "cake.mp3",
+            "cookies.mp3",
+            "donuts.mp3",
+            "ice-cream.mp3",
+            "rice.mp3",
+            "tako.mp3"
+        ]
+    },
+    {
+        "category": "fruits",
+        "audio": [
+            "apple.mp3",
+            "banana.mp3",
+            "cherry.mp3",
+            "grapes.mp3",
+            "lemon.mp3",
+            "orange.mp3",
+            "peach.mp3",
+            "pear.mp3"
+        ]
+    },
+    {
+        "category": "nature",
+        "audio": [
+            "beach.mp3",
+            "flower.mp3",
+            "forest.mp3",
+            "lake.mp3",
+            "mountain.mp3",
+            "rainbow.mp3",
+            "snow.mp3",
+            "tree.mp3"
+        ]
+    }
+]

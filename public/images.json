@@ -1,0 +1,120 @@
+[
+    {
+        "category": "main",
+        "images": [
+            "actions.jpg",
+            "animals1.jpg",
+            "animals2.jpg",
+            "emotions.jpg",
+            "family.jpg",
+            "food.jpg",
+            "fruits.jpg",
+            "nature.jpg"
+        ]
+    },
+    {
+        "category": "actions",
+        "images": [
+            "climb.jpg",
+            "dive.jpg",
+            "drive.jpg",
+            "fly.jpg",
+            "jump.jpg",
+            "ride.jpg",
+            "run.jpg",
+            "walk.jpg"
+        ]
+    },
+    {
+        "category": "animals1",
+        "images": [
+            "cat.jpg",
+            "elephant.jpg",
+            "fish.jpg",
+            "monkey.jpg",
+            "pig.jpg",
+            "shark.jpg",
+            "sheep.jpg",
+            "squirrel.jpg"
+        ]
+    },
+    {
+        "category": "animals2",
+        "images": [
+            "bee.jpg",
+            "dog.jpg",
+            "frog.jpg",
+            "giraffe.jpg",
+            "horse.jpg",
+            "lion.jpg",
+            "panda.jpg",
+            "rabbit.jpg"
+        ]
+    },
+    {
+        "category": "emotions",
+        "images": [
+            "angry.jpg",
+            "brave.jpg",
+            "confused.jpg",
+            "crying.jpg",
+            "happy.jpg",
+            "sad.jpg",
+            "sick.jpg",
+            "surprised.jpg"
+        ]
+    },
+    {
+        "category": "family",
+        "images": [
+            "brother.jpg",
+            "family.jpg",
+            "father.jpg",
+            "friend.jpg",
+            "grandma.jpg",
+            "grandpa.jpg",
+            "mother.jpg",
+            "sister.jpg"
+        ]
+    },
+    {
+        "category": "food",
+        "images": [
+            "bread.jpg",
+            "burger.jpg",
+            "cake.jpg",
+            "cookies.jpg",
+            "donuts.jpg",
+            "ice-cream.jpg",
+            "rice.jpg",
+            "tako.jpg"
+        ]
+    },
+    {
+        "category": "fruits",
+        "images": [
+            "apple.jpg",
+            "banana.jpg",
+            "cherry.jpg",
+            "grapes.jpg",
+            "lemon.jpg",
+            "orange.jpg",
+            "peach.jpg",
+            "pear.jpg"
+        ]
+    },
+    {
+        "category": "nature",
+        "images": [
+            "beach.jpg",
+            "flower.jpg",
+            "forest.jpg",
+            "lake.jpg",
+            "mountain.jpg",
+            "rainbow.jpg",
+            "snow.jpg",
+            "tree.jpg"
+        ]
+    }
+]
+
